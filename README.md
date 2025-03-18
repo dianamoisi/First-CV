@@ -1,2 +1,1 @@
-# CV-html&css
-In this project I tried to copy the website design: https://www.w3schools.com/w3css/tryw3css_templates_cv.htm. I also worked with basic concepts of html and css, to fix my knowledge.
+I recreated the design of this CV template (https://www.w3schools.com/w3css/tryw3css_templates_cv.htm) using only HTML and CSS. This project helped me strengthen my front-end skills and deepen my understanding of structuring and styling complex web pages.
